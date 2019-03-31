@@ -5,6 +5,8 @@ programming-projects-for-n00bz
 
 These are in random difficulty order.
 
+https://wiki.installgentoo.com/images/5/5c/Programming-Projects-for-N00bz.jpg
+
 How to Play
 -----------------------------
 Last three digits of your post decide.
